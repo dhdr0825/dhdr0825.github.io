@@ -9,7 +9,7 @@
 * 네이트는 Neo, New, Next 등의 의미를 가진 'N'과 Gate, Mate, Date 등의 'ATE'가 조합된 것 이다.
 ```  
 
-|[뉴스](https://news.nate.com"뉴스")|다양한 의견을 한눈에 보는 뉴스|
+|[뉴스](https://news.nate.com/"뉴스")|다양한 의견을 한눈에 보는 뉴스|
 |:---|:---|
 |[판](https://pann.nate.com"판")|세상사는 이야기 판|
 |[만화](https://comics.nate.com/main"만화")|인기 만화와 프리미엄 웹툰이 가득|
