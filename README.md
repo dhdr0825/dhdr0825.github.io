@@ -5,8 +5,8 @@
 
 ## What is a Nate?
 
-* 1999년 개설된 SK커뮤니케이션즈에서 운영하는 유무선 포털 사이트
-* 네이트는 Neo, New, Next 등의 의미를 가진 'N'과 Gate, Mate, Date 등의 'ATE'가 조합된 것 이다.
+- 1999년 개설된 SK커뮤니케이션즈에서 운영하는 유무선 포털 사이트
+- 네이트는 Neo, New, Next 등의 의미를 가진 'N'과 Gate, Mate, Date 등의 'ATE'가 조합된 것 이다.
 """
 
 |서비스|소개|
