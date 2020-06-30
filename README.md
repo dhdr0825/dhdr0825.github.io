@@ -13,7 +13,7 @@
 [뉴스](www.news.nate.com"뉴스")|다양한 의견을 한눈에 보는 뉴스
 |:---|:---|
 [판](https://pann.nate.com/"판")|세상사는 이야기 판
-|:---|:---|
+:---|:---
 [만화](https://comics.nate.com/main/"만화")|인기 만화와 프리미엄 웹툰이 가득
 |:---|:---|
 [쇼핑](https://shopping.nate.com/#!top"쇼핑")|편리하고 합리적인 쇼핑
