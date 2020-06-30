@@ -1,5 +1,5 @@
 # Nate 
-<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FTyLPc%2Fbtqw8B8756m%2FBsp5Vk1DqASQiCNbCpMhck%2Fimg.jpg" width="200" height="200">
+<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FTyLPc%2Fbtqw8B8756m%2FBsp5Vk1DqASQiCNbCpMhck%2Fimg.jpg" width="200" height="100">
 
 [네이트 홈페이지](www.nate.com"네이트")  
 > 즐거움과 유익한 정보를 제공하는 포털서비스 **네이트**를 만나보세요.
