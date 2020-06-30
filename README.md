@@ -1,5 +1,5 @@
 # Nate 
-<https://ww.namu.la/s/6f348851e0b46b0e4bbdb38357d7b921d7c2d39bfdbbc26d4dad6999d3a9857aab7a83836a986ab65bafa3bd48a877effe25d7cfb9017c2cfbf4ef6eec6376f9b9b500a2fec24ab0e64410d7fa1707044c6601f9979bf95fdef08a0a4eff466d>
+<img src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FTyLPc%2Fbtqw8B8756m%2FBsp5Vk1DqASQiCNbCpMhck%2Fimg.jpg">
 
 [네이트 홈페이지](www.nate.com"네이트")  
 > 즐거움과 유익한 정보를 제공하는 포털서비스 **네이트**를 만나보세요.
